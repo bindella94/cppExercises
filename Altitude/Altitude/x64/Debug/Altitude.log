@@ -1,0 +1,9 @@
+﻿  Altitude.cpp
+C:\dev\Altitude\Altitude\Altitude.h(8,58): warning C4244: 'inizializzazione': conversione da 'const int' a 'float'. Possibile perdita di dati.
+C:\dev\Altitude\Altitude\Altitude.cpp(26,30): warning C4244: '+=': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\dev\Altitude\Altitude\Altitude.cpp(29,41): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\dev\Altitude\Altitude\Altitude.cpp(30,12): warning C4244: 'return': conversione da 'int' a 'float'. Possibile perdita di dati.
+  main.cpp
+C:\dev\Altitude\Altitude\Altitude.h(8,58): warning C4244: 'inizializzazione': conversione da 'const int' a 'float'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  Altitude.vcxproj -> C:\dev\Altitude\x64\Debug\Altitude.exe
